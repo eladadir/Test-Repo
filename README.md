@@ -1,4 +1,4 @@
-![Project Logo](Assets/valueopensource%20logo%20for%20README.png)
+![Project Logo](imgs/img/valueopensource%20logo%20for%20README.png)
 
 ***Note** - Add a project logo or a banner - You can use [Canva](https://www.canva.com) to make your own logo and make it look more professional,  or you can pay a few dollars for logo at [Fiverr](https://www.fiverr.com) or similar alternative.
 
@@ -15,6 +15,7 @@ another example, if you chose the 'Open Core - Freemium' model, you should also 
 Make it easy for users to see the project progress and many other indicators,
 Check out [Shields.io](https://Shields.io) to use or make your own badges:
 
+![](https://img.shields.io/badge/Available%20on-xs%3Acode-blue?style=?style=plastic&logo=appveyor&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF////////VXz1bAAAAAJ0Uk5T/wDltzBKAAAAlUlEQVR42uzXSwqAMAwE0Mn9L+3Ggtgkk35QwcnSJo9S+yGwM9DCooCbgn4YrJ4CIPUcQF7/XSBbx2TEz4sAZ2q1RAECBAiYBlCtvwN+KiYAlG7UDGj59MViT9hOwEqAhYCtAsUZvL6I6W8c2wcbd+LIWSCHSTeSAAECngN4xxIDSK9f4B9t377Wd7H5Nt7/Xz8eAgwAvesLRjYYPuUAAAAASUVORK5CYII=&link=https://xscode.com)
 ![version](https://img.shields.io/badge/version-0.0.1-blue)
 ![build](https://img.shields.io/badge/build-passing-success)
 ![contributors](https://img.shields.io/badge/Contributors-4-brightgreen)
@@ -31,7 +32,7 @@ Check out [Shields.io](https://Shields.io) to use or make your own badges:
 ## Demo / Demo GIF
 Make a GIF with any GIF maker / screen recorder and show users how this project works.
 
-![Demo GIF](Assets/DemoGIF.gif)
+![Demo GIF](imgs/img/DemoGIF.gif)
 
 > *via @Beedigital.net on [GIPHY](https://media.giphy.com/media/sM7c9dEXTQlEc/source.gif)*
 
@@ -91,7 +92,7 @@ This is the section where you would document those requirements.
 Instruct developers on how to use your project after they’ve installed it.
 This would also be a good place to include screenshots of your project in action.
 
-![screenshot](Assets/screenshot1.png)
+![screenshot](imgs/img/screenshot-app.jpg)
 
 ## Running tests
 Explain how to run the automated tests for this project
